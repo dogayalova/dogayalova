@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dogayalova
 - 👀 I’m a molecular biology and genetics undergraduate student
 - 🌱 I’m currently learning bioinformatics, computational/structural biology
-- 💞️ I’m looking to collaborate on bioinformaticss related codes
+- 💞️ I’m looking to collaborate on bioinformatics related codes
 - 📫 dogayalova@gmail.com
 
 <!---
