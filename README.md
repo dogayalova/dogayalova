@@ -1,7 +1,7 @@
 # Hello, I'm Doğa Yalova! 👋
 
 ## About Me
-I'm an undergraduate student with a strong background in **Molecular Biology and Genetics**. With significant experience in computational and structural biology, I'm passionately transitioning towards the more coding-intensive aspects of **Bioinformatics**.
+Recent graduate in **Molecular Biology and Genetics** at Bogazici University, Istanbul. With experience in computational and structural biology, I'm passionately transitioning towards the more coding-intensive aspects of **Bioinformatics**.
 
 ## My Journey
 - 🧬 **Molecular Biology & Genetics**: My foundational field of expertise, offering a deep understanding of genetic systems and biological mechanisms.
