@@ -1,4 +1,4 @@
-# Hello, I'm Doğa Yalova! 👋
+# Hej, I'm Doğa! 👋
 
 ## About Me
 Recent graduate in **Molecular Biology and Genetics** at Bogazici University, Istanbul. Will pursue MSc in Bioinformatics at Uppsala University, starting Fall 2024. With experience in computational and structural biology, I'm passionately transitioning towards the more coding-intensive aspects of **Bioinformatics**.
