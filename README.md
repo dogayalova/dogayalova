@@ -1,7 +1,7 @@
 # Hej, I'm Doğa! 👋
 
 ## About Me
-Recent graduate in **Molecular Biology and Genetics** at Bogazici University, Istanbul. Will pursue MSc in Bioinformatics at Uppsala University, starting Fall 2024. With experience in computational and structural biology, I'm passionately transitioning towards the more coding-intensive aspects of **Bioinformatics**.
+MSc student in Bioinformatics at Uppsala University.
 
 ## My Journey
 - 🧬 **Molecular Biology & Genetics**: My foundational field of expertise, offering a deep understanding of genetic systems and biological mechanisms.
@@ -15,6 +15,7 @@ Recent graduate in **Molecular Biology and Genetics** at Bogazici University, Is
 ## Connect with Me
 - 📫 Feel free to reach out to me via email: [dogayalova@gmail.com](mailto:dogayalova@gmail.com)
 - 🔗 Follow me on GitHub for updates on my journey and projects in the realm of bioinformatics and computational biology.
+
 
 
 <!---
