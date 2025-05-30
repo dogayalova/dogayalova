@@ -16,7 +16,9 @@ MSc student in Bioinformatics at Uppsala University.
 - 📫 Feel free to reach out to me via email: [dogayalova@gmail.com](mailto:dogayalova@gmail.com)
 - 🔗 Follow me on GitHub for updates on my journey and projects in the realm of bioinformatics and computational biology.
 
+  
 
+<img src="https://github.com/user-attachments/assets/13980b44-55fd-4e64-8afc-b1e963b1412e" width="400"> 
 
 <!---
 dogayalova/dogayalova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
